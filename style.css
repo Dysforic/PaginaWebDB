@@ -1,0 +1,140 @@
+body {
+  background-image: url(../Imágenes/Restaurante.jpg);
+  background-image: no-repeat;
+  background-image: center;
+  color: coral;
+  font-weight: 400;
+  line-height: 1.5;
+  margin-left: 40;
+  align-items: center;
+  display: block;
+
+}
+
+
+.nav-item1 a {
+  display: inline-flex !important;
+  align-items: center;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  width: 250px;
+  font-size: 20px;
+  font-style: italic;
+  float: right;
+  color:green;
+  margin-right: auto;
+  padding: 12px 14px;
+  background-color: white;
+}
+
+.nav-item1 a:hover {
+  background-color: #F0F8FF;
+}
+
+
+.nav-item2 a {
+  display: inline-flex !important;
+  align-items: center;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  width: 200px;
+  font-size: 20px;
+  font-style: italic;
+  float: right;
+  color: green;
+  margin-right: auto;
+  padding: 12px 14px;
+  background-color: white;
+}
+
+.nav-item2 a:hover {
+  background-color: #F0F8FF;
+}
+
+#b1 p {
+  color: red;
+  text-align: center;
+  font-size: 120px;
+  font-style: italic;
+  margin: auto;
+}
+
+#b2 p {
+  color: coral;
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+  margin: auto;
+}
+
+#b3 p {
+  color: coral;
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+  margin: auto;
+}
+
+#container div {
+  display:block;
+  padding: 8px;
+  text-align: center;
+}
+
+.well1  {
+  align-items: center;
+  font-size: 16px;
+  float: inherit;
+  justify-content: center;
+  margin: 12;
+}
+
+.conocidas {
+  font-size: 32px;
+  font-style:oblique;
+  border: 1px solid #000;
+}
+
+.well2  {
+  align-items: center;
+  font-size: 16px;
+  float: inherit;
+  justify-content: center;
+  margin: 12;
+}
+
+.huerto {
+  font-size: 32px;
+  font-style:oblique;
+  border: 1px solid #000;
+}
+
+.well3  {
+  align-items: center;
+  font-size: 16px;
+  float: inherit;
+  justify-content: center;
+  margin: 12;
+}
+
+.jugosas {
+  font-size: 32px;
+  font-style:oblique;
+  border: 1px solid #000;
+}
+
+.well4  {
+  align-items: center;
+  font-size: 16px;
+  float: inherit;
+  justify-content: center;
+  margin: 12;
+}
+
+.atrevidas {
+  font-size: 32px;
+  font-style:oblique;
+  border: 1px solid #000;
+}

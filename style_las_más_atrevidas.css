@@ -1,0 +1,47 @@
+body {
+  background-image: url(../Imágenes/Restaurante.jpg);
+  background-image: no-repeat;
+  background-image: center;
+  color: coral;
+  font-weight: 400;
+  line-height: 1.5;
+  margin-left: 40;
+  align-items: center;
+  display: block;
+  text-align: center;
+}
+
+
+.nav-item1 a {
+  display: inline-flex !important;
+  align-items: center;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  width: 250px;
+  font-size: 20px;
+  font-style: italic;
+  float: right;
+  color:green;
+  margin-right: auto;
+  padding: 12px 14px;
+  background-color: white;
+}
+
+#Introducción {
+  font-style: oblique;
+  font-size: 30px;
+  text-align: center;
+}
+
+#Introducción1 {
+  font-style: oblique;
+  font-size: 26px;
+  text-align: center;
+}
+
+#Introducción2 {
+  font-style: oblique;
+  font-size: 18px;
+  text-align: center;
+}
